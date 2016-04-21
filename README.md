@@ -13,7 +13,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class VerifyAboutPage {
 
 	/**
-	 * @throws InterruptedException 
+	 * 
 	 * @ Shahidul Islam
 	 *  Verify about page title
 	 */
